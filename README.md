@@ -12,3 +12,5 @@
 ###### (React, CRA, Axios, Bootstrap)
 
 ##### npm run start - запуск приложения.
+##### docker build --tag react-table-test
+##### docker run --publish 8000:8000 react-table-test
